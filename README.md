@@ -93,7 +93,7 @@ My Microverse Portfolio Project</b></h3>
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://gsmalik030portfolio.github.io/
+- [Live Demo Link](https://gsmalik030.github.io/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
