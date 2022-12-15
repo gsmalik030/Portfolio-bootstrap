@@ -1,0 +1,69 @@
+.card-img-tonic2 {
+  display: none;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+}
+
+.card {
+  flex-direction: row;
+  border-radius: 1rem;
+  padding: 0rem 1.25rem;
+}
+
+.card-body {
+  padding-top: 7%;
+}
+
+.card-title {
+  color: #091E42;
+  font-size: 40px;
+  font-weight: 700;
+}
+
+.subtitle {
+  display: flex;
+  color: #6B778C;
+}
+
+.card-subtitle {
+  margin-top: 2px;
+  color: #344563;
+}
+
+.card-img-1 {
+  display: none;
+}
+
+.card-img-2 {
+  height: 100%;
+  width: 100%;
+}
+
+.card-text {
+  color: #344563;
+}
+
+@media (max-width: 768px){
+  .card-img-tonic1 {
+    display: none;
+  }
+
+  .card-img-tonic2 {
+    display: block;
+  }
+
+  .card {
+    flex-direction: column;
+  }
+
+  .card-img-1 {
+    display: block;
+  }
+
+  .card-img-2 {
+    display: none;
+  }
+}
